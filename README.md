@@ -7,7 +7,7 @@ Mini command line app to search ips and server names of the website you want
 Have [golang](https://golang.org/) installed
 
 ## Commands
-###Build me
+### Build me
 ```
 go build
 ```
